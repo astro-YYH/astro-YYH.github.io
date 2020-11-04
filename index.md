@@ -18,5 +18,9 @@ An undergraduate student from the University of Science and Technology of China 
 
 <img src="photographs/Travels/IMG_5574.JPG" alt="drawing" width="300"/> <img src="photographs/Travels/IMG_3872.JPG" alt="drawing" width="300"/>
 
+3. Hometown
+   
+<img src="photographs/Hometown/IMG_5593.JPG" alt="drawing" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="drawing" width="300"/>
+
 
 
