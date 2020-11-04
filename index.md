@@ -4,7 +4,7 @@ An undergraduate student from the University of Science and Technology of China 
 
 ## Curriculum Vitae
 
-[pdf version](https://github.com/astro-YYH/home/blob/main/Curriculum_Vitae.pdf)
+[pdf version](/Curriculum_Vitae.pdf)
 
 ## Research
 
