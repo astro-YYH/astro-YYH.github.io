@@ -4,9 +4,9 @@ E-Mail: se20160607@mail.ustc.edu.cn
 Curriculum Vitae [pdf version](/Curriculum_Vitae.pdf)
 
 ## Education
-University of Science and Technology of China 
-Major: Astronomy/Astrophysics 
-School: School of Physical Sciences  <p style="text-align: right;"> August 2017 - present </p>
+University of Science and Technology of China  
+Major: Astronomy/Astrophysics  
+School: School of Physical Sciences  August 2017 - present 
 
 ## Research
 
@@ -14,12 +14,12 @@ School: School of Physical Sciences  <p style="text-align: right;"> August 2017 
 
 ### Experiences
 _Hydrodynamic simulations of turbulent mixing layers of galactic winds_  
-[California Institute of Technology](https://www.caltech.edu/)     Summer 2020  
+[California Institute of Technology](https://www.caltech.edu/)  Summer 2020  
 Mentored by [Suoqing Ji](http://www.tapir.caltech.edu/~suoqing/), [Philip F. Hopkins](http://www.tapir.caltech.edu/~phopkins/Site/About_Me.html)
-    
-    \noindent\emph{The formation of seed black holes}  
-    \href{http://english.ynao.cas.cn/}{\textbf{Yunnan Observatories, Chinese Academy of Sciences}} \hfs July 2019 - June 2020  
-    Mentored by \href{http://users.ynao.ac.cn/~xbdong/}{Xiaobo Dong}, Runyu Meng
+
+_The formation of seed black holes_  
+[Yunnan Observatories, Chinese Academy of Sciences](http://english.ynao.cas.cn/)  July 2019 - June 2020  
+Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 
 ## Visits
