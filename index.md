@@ -23,10 +23,31 @@ _The formation of seed black holes_
 Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 ## Visits
-[Shanghai Astonomical Observertory, Chinese Academy of Sciences](http://english.shao.cas.cn/) (Jan 2020)  
+[Shanghai Astonomical Observertory, Chinese Academy of Sciences](http://english.shao.cas.cn/) (Jan. 2020)  
 [Five-hundred-meter Aperture Spherical Telescope (FAST)](https://fast.bao.ac.cn/#) (July 2019)  
 
-## Skills
+## Skills  
+
+### Programming languages  
+- C  
+- Python  
+- Fortran  
+### Simulation codes  
+- FLASH  
+- GADGET  
+- RAMSES  
+### Document preparation  
+- Markdown  
+- LATEX  
+### Technical computing  
+- Mathematica  
+### Image tools
+- ds9  
+### Graphing utilities  
+- Origin  
+- Gnuplot  
+### Graphical system design  
+- Labview  
 
 ## Photographs
 
@@ -45,6 +66,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - Hometown
   
 <img src="photographs/Hometown/IMG_5593.JPG" alt="Heilongqiao" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="Erhai" width="300"/>
+
 
 
 
