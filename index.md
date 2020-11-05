@@ -32,6 +32,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - C  
 - Python  
 - Fortran  
+  
 ### Simulation codes  
 - FLASH  
 - GADGET  
@@ -61,9 +62,9 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 - Drawings and Paintings
 
-<img src="photographs/drawings/IMG_3699.JPG" alt="drawing 1" width="300"/> <img src="photographs/drawings/IMG_E3627.JPG" alt="drawing 2" width="300"/>
+<img src="photographs/Drawings&Paintings/IMG_3699.JPG" alt="drawing 1" width="300"/> <img src="photographs/Drawings&Paintings/IMG_E3627.JPG" alt="drawing 2" width="300"/>
 
-- Hometown
+- Hometown - Dali
   
 <img src="photographs/Hometown/IMG_5593.JPG" alt="Heilongqiao" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="Erhai" width="300"/>
 
