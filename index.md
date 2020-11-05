@@ -4,7 +4,7 @@ E-Mail: se20160607@mail.ustc.edu.cn
 Curriculum Vitae [pdf version](/Curriculum_Vitae.pdf)
 
 ## Education
-University of Science and Technology of China  
+[University of Science and Technology of China](http://en.ustc.edu.cn/) 
 Major: Astronomy/Astrophysics  
 School: School of Physical Sciences (August 2017 - present)  
 
