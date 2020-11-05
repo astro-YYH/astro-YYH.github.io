@@ -4,7 +4,7 @@ E-Mail: se20160607@mail.ustc.edu.cn
 Curriculum Vitae [pdf version](/Curriculum_Vitae.pdf)
 
 ## Education
-[University of Science and Technology of China](http://en.ustc.edu.cn/) 
+[University of Science and Technology of China](http://en.ustc.edu.cn/)  
 Major: Astronomy/Astrophysics  
 School: School of Physical Sciences (August 2017 - present)  
 
@@ -37,16 +37,21 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - FLASH  
 - GADGET  
 - RAMSES  
+- 
 ### Document preparation  
 - Markdown  
 - LATEX  
+  
 ### Technical computing  
 - Mathematica  
+
 ### Image tools
 - ds9  
+
 ### Graphing utilities  
 - Origin  
 - Gnuplot  
+
 ### Graphical system design  
 - Labview  
 
