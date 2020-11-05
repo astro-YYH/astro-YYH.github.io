@@ -11,6 +11,7 @@ School: School of Physical Sciences  August 2017 - present
 ## Research
 
 ### Interests
+I’m interested in various astrophysical topics, such as black hole formation, CGM related problems (e.g.,turbulent mixing layers). And I’ve been doing some work on the formation of seed-BHs, and dedicated to research on turbulent mixing layers for solving mid ions related problems. Besides, I am also eager to get to know more about observational astronomy and cosmology theories.  
 
 ### Experiences
 _Hydrodynamic simulations of turbulent mixing layers of galactic winds_  
@@ -21,8 +22,9 @@ _The formation of seed black holes_
 [Yunnan Observatories, Chinese Academy of Sciences](http://english.ynao.cas.cn/)  July 2019 - June 2020  
 Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
-
 ## Visits
+[Shanghai Astonomical Observertory, Chinese Academy of Sciences](http://english.shao.cas.cn/)  Jan 2020  
+[Five-hundred-meter Aperture Spherical Telescope (FAST)](https://fast.bao.ac.cn/#)  July 2019  
 
 ## Skills
 
