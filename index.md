@@ -33,7 +33,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - Python  
 - Fortran  
   
-### Simulation codes  
+### Codes for numerical simulations  
 - FLASH  
 - GADGET  
 - RAMSES  
