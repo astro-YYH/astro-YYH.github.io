@@ -67,7 +67,9 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 - Drawings and Paintings
 
-<img src="photographs/Drawings&Paintings/IMG_3699.JPG" alt="drawing 1" width="300"/> <img src="photographs/Drawings&Paintings/IMG_E3627.JPG" alt="drawing 2" width="300"/>
+<img src="photographs/Drawings&Paintings/yuening.png" alt="drawing 3" width="600"/>  
+<img src="photographs/Drawings&Paintings/IMG_3699.JPG" alt="drawing 1" width="300"/> <img src="photographs/Drawings&Paintings/IMG_E3627.JPG" alt="drawing 2" width="300"/>  
+
 
 - Hometown - Dali
   
