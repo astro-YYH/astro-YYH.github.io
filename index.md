@@ -71,9 +71,10 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - Drawings and Paintings
 
 <img src="photographs/Drawings&Paintings/yuening.png" alt="drawing 3" width="600"/>  
-<center> My love </center>
+<center> My love </center>  
 <img src="photographs/Drawings&Paintings/IMG_3699.JPG" alt="drawing 1" width="300" height="300"/> <img src="photographs/Drawings&Paintings/IMG_E3627.JPG" alt="drawing 2" width="300" height="300"/>  
-&emsp;Spoink&emsp;&emsp;Owl
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Spoink&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Owl  
 
 - Hometown - Dali
   
