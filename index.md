@@ -82,7 +82,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 - Hometown - Dali
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Near Heilongqiao&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Erhai lake  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Near Heilongqiao&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Erhai lake  
 <img src="photographs/Hometown/IMG_5593.JPG" alt="Heilongqiao" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="Erhai" width="300"/>
 
 
