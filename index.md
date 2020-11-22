@@ -66,7 +66,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 - Visits and Travels
   
-  <center> Telescopes (Left: Shanghai Astronomical Observatory, Chinese Academy of Sciences; Right: Yunnan Observatories, Chinese Academy of Sciences) </center>
+<center> Telescopes (Left: Shanghai Astronomical Observatory, Chinese Academy of Sciences; Right: Yunnan Observatories, Chinese Academy of Sciences) </center>
 <img src="photographs/Travels/IMG_5574.JPG" alt="radio telescope 1" width="300"/> <img src="photographs/Travels/IMG_3872.JPG" alt="radio telescope 1" width="300"/>
 
 
@@ -82,7 +82,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 - Hometown - Dali
   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Near Heilongqiao&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Erhai lake  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Near Heilongqiao&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Erhai lake  
 <img src="photographs/Hometown/IMG_5593.JPG" alt="Heilongqiao" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="Erhai" width="300"/>
 
 
