@@ -85,6 +85,15 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Near Heilongqiao&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Erhai lake  
 <img src="photographs/Hometown/IMG_5593.JPG" alt="Heilongqiao" width="300"/> <img src="photographs/Hometown/IMG_5609.JPG" alt="Erhai" width="300"/>
 
+## Other stuffs
+
+### Donating my hair to cancer patients
+
+<img src="others/IMG_8742.JPG" alt="former_hair" width="340"/> <img src="others/IMG_8751.PNG" alt="later" width="256" height="453"/>  
+<img src="others/IMG_8834.JPG" alt="hair" width="600"/>  
+<img src="others/IMG_8888.PNG" alt="certificate" width="600"/>
+
+
 
 
 
