@@ -32,7 +32,8 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 - C  
 - Python  
 - Fortran  
-  
+- IDL    
+
 ### Codes for numerical simulations  
 - FLASH  
 - GADGET  
@@ -62,12 +63,24 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 <center> Green space near the library </center>
 <img src="photographs/Campus/34BF86D0-1E14-4460-9379-978E71F302F6.JPG" alt="library front" width="300" /> <img src="photographs/Campus/6D5B3098-1340-4F1F-BDA1-BDD744CB9842.JPG" alt="autumn" width="300" />  
 
+<center> Snowy Campus </center>
+<img src="photographs/Travels/IMG_9236.JPG" alt="snow" width="600"/>
+
 
 
 - Visits and Travels
   
 <center> Telescopes (Left: Shanghai Astronomical Observatory, Chinese Academy of Sciences; Right: Yunnan Observatories, Chinese Academy of Sciences) </center>
 <img src="photographs/Travels/IMG_5574.JPG" alt="radio telescope 1" width="300"/> <img src="photographs/Travels/IMG_3872.JPG" alt="radio telescope 1" width="300"/>
+
+<center> Nanjing </center>
+<img src="photographs/Travels/IMG_9131.JPG" alt="Nanjing 1" width="300"/> <img src="photographs/Travels/IMG_9097.JPG" alt="Nanjing 2" width="300"/>
+
+<center> Zhenjiang </center>
+<img src="photographs/Travels/IMG_9170.JPG" alt="Zhenjiang 1" width="300"/> <img src="photographs/Travels/IMG_9150.JPG" alt="Zhenjiang 2" width="300"/>
+
+<center> Hongcun, Huangshan </center>
+<img src="photographs/Travels/IMG_9095.JPG" alt="Hongcun 1" width="300"/> <img src="photographs/Travels/IMG_9071.JPG" alt="Hongcun 2" width="300"/>
 
 
 - Drawings and Paintings
@@ -77,7 +90,6 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Spoink&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Owl  
 <img src="photographs/Drawings&Paintings/IMG_3699.JPG" alt="drawing 1" width="300" height="300"/> <img src="photographs/Drawings&Paintings/IMG_E3627.JPG" alt="drawing 2" width="300" height="300"/>  
-
 
 
 - Hometown - Dali
