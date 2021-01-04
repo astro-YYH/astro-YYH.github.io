@@ -64,7 +64,7 @@ Mentored by [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/), Runyu Meng
 <img src="photographs/Campus/34BF86D0-1E14-4460-9379-978E71F302F6.JPG" alt="library front" width="300" /> <img src="photographs/Campus/6D5B3098-1340-4F1F-BDA1-BDD744CB9842.JPG" alt="autumn" width="300" />  
 
 <center> Snowy Campus </center>
-<img src="photographs/Travels/IMG_9236.JPG" alt="snow" width="600"/>
+<img src="photographs/Campus/IMG_9236.JPG" alt="snow" width="600"/>
 
 
 
