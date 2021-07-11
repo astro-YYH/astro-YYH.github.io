@@ -1,0 +1,43 @@
+#top_home {
+    height: 100px;
+    padding-bottom: 10px;
+    background-image: url(pics/horse.png);
+}
+
+.this_nav {
+    width: 200px;
+    font-size: 20px;
+    display: block;
+    background-color: #ccc;
+    text-align: center;
+    position: relative;
+    left: 100px;
+}
+.this_nav a {
+    display: block;
+    color: #000;
+    border-bottom: 0;
+    text-decoration: none;
+}
+.this_nav a:hover {
+    background-color: #ccc;
+    color: #000;
+}
+
+.nav {
+    width: 200px;
+    font-size: 20px;
+    display: block;
+    background-color: transparent;
+    text-align: center;
+}
+.nav a {
+    display: block;
+    color: #fff;
+    border-bottom: 0;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: #ccc;
+    color: #000;
+}
