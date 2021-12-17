@@ -1,31 +1,29 @@
 body {
     font-size: 20px;
     line-height: 30px;
+    background-color: #212931;
 }
 
 #bg {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100vw;
-	height: 200vh;
+    width: 100%;
+	height: 2050px;
     background-color: #212931;
     background-image: url("pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg");
     background-size: 100% auto;
     background-position: top center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-attachment: scroll;
-    z-index: -1;
-    overflow: hidden;
+    overflow: auto;
 }
 
 
 #front {
 	height: auto;
-	overflow: hidden;
 	position: relative;
 	width: 100%;
-	z-index: 1;
 }
 
 #Yang {
