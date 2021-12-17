@@ -1,11 +1,31 @@
 body {
-    background-image: url('pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg');
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-attachment: fixed;
-    background-size: 100% auto;
     font-size: 20px;
     line-height: 30px;
+}
+
+#bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+	height: 200vh;
+    background-color: #212931;
+    background-image: url("pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg");
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    z-index: -1;
+    overflow: hidden;
+}
+
+
+#front {
+	height: auto;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	z-index: 1;
 }
 
 #Yang {
