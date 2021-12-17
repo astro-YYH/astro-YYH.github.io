@@ -1,9 +1,9 @@
 body {
     background-image: url('pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg');
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: top center;
     background-attachment: scroll;
-    background-size: cover;
+    background-size: 100% auto;
     font-size: 20px;
     line-height: 30px;
 }
@@ -120,6 +120,13 @@ body {
     position: relative;
     top: 5px;
     padding: 20px 40px;
+}
+
+.main_box ul {
+    font-size: 22px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
 }
 
 #update {
