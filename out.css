@@ -4,6 +4,7 @@ body {
     background-position: top center;
     background-attachment: fixed;
     background-size: 100% auto;
+    background-color: #000;
     font-size: 20px;
     line-height: 30px;
 }
