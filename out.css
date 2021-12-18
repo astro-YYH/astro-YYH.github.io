@@ -19,6 +19,16 @@ body {
     overflow: auto;
 }
 
+img {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+img#temp_slice {
+    width: 1080px;
+    padding: 20px;
+}
 
 #Yang {
     height: 730px;
@@ -74,14 +84,13 @@ body {
 }
 
 .this_nav {
+    text-transform: uppercase;
     float: left;
     width: 25%;
+    height: 60px;
     font-size: 30px;
-    display: block;
     background-color: #ccc;
-    text-align: center;
     position: relative;
-    /*border-bottom: #ccc solid 3px;*/
 }
 .this_nav a {
     height: 46px;
@@ -89,7 +98,8 @@ body {
     color: #000;
     border-bottom: 0;
     text-decoration: none;
-    padding-top: 10px;
+    text-align: center;
+    padding-top: 14px;
 }
 .this_nav:hover {
     background-color: #ccc;
@@ -97,22 +107,23 @@ body {
 }
 
 .nav {
+    text-transform: uppercase;
     float: left;
     width: 25%;
+    height: 60px;
     font-size: 30px;
     background-color: rgb(150, 150, 150, 0.7);
-    display: block;
-    text-align: center;
+    position: relative;
      /*border-bottom: #ccc solid 3px;*/
 }
 
 .nav a {
-    width:100%;
     height: 46px;
     display: block;
     border-bottom: 0;
-    padding-top: 10px;
+    padding-top: 14px;
     text-decoration: none;
+    text-align: center;
     color: white;
 }
 
@@ -182,5 +193,18 @@ hr.main {
 
 .clear {
     clear: both;
+}
+
+
+.pic {
+    float: left;
+    width: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.pic > img {
+    height: calc(100% - 45px);
 }
 
