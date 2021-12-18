@@ -20,12 +20,6 @@ body {
 }
 
 
-#front {
-	height: auto;
-	position: relative;
-	width: 100%;
-}
-
 #Yang {
     height: 730px;
     width: 1200px;
@@ -41,7 +35,7 @@ body {
     height: 100%;
     float: left;
     width: 62%;
-    padding-top: 320px;
+    padding-top: 350px;
     padding-left: 110px;
     box-sizing: border-box;
     /*
