@@ -204,7 +204,15 @@ hr.main {
     margin-bottom: 10px;
 }
 
-.pic > img {
+.pic > a > img {
     height: calc(100% - 45px);
+}
+
+#donation_describe {
+    float: left;
+    width: auto;
+    text-align: left;
+    overflow: hidden;
+    margin-bottom: 10px;
 }
 
