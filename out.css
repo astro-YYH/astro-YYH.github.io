@@ -103,7 +103,6 @@ img#temp_slice {
 }
 .this_nav:hover {
     background-color: #ccc;
-    color: #000;
 }
 
 .nav {
@@ -124,13 +123,12 @@ img#temp_slice {
     padding-top: 14px;
     text-decoration: none;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 
 .nav a:hover {
     background-color: #ccc;
-    color: #000;
 }
 
 .main_box {
