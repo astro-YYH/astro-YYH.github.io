@@ -5,6 +5,8 @@
 <head>
     <link rel="stylesheet" type="text/css" href="out.css">
     <title>Yang, Yanhui Research</title>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
 
 <body>
@@ -56,10 +58,107 @@
             </p>
 
 
-            <h3>Radiative tubulent mixing layers with weak cooling at high Mach numbers</h3>
+            <h3>1 Radiative tubulent mixing layers with weak cooling at high Mach numbers</h3>
 
-            <img id="temp_slice" src="pics/V200_t100_temp_slice.jpg" alt="temperature slice">
+            (in preparation, expected to be submitted to MNRAS around Jan 2022)</br>
+            We carry out a research to investigate the properties of weak cooling turbulent mixing layers (this is an advanced extension of one of our previous study - see the next section for a more detailed introduction to background, <em>Hydrodynamic sim...</em>), in which we run a suite of simulations with various Mach numbers (shear velocity/hot gas sound speed), and find a series of interesting phenomena and results. Below are selected ones:
+
+            <h4>The separation of dissipation and cooling layers</h4>
+
+            We find in the weak cooling regime (e.g., with low metallicity or pressure), the well-developed turbulent region can be divided into two parts in supersonic cases (Mach number > 1): the cooling layer and the dissipation layer. The former is where efficient mixing and radiative cooling are occurring, while in the latter one the turbulent dissipation is significant. The situation is tremendously different from that in the strong cooling regime, where the dissipation and cooling should be highly coupled spatially. The picture below illustrates a typical turbulent region in the weak cooling regime.
+
+            <div class="pic" style="width: 100%;">
+                <a href="pics/V300_t080.jpg" target="_blanck">
+                    <img style="width: 1080px;" src="pics/V300_t080.jpg" alt="temperature slice"><br />
+                </a>
+
+                <em>The turbulent region arising from the hot/cold gas interface</em>
+            </div>
+            <div class="clear"></div>
+
+            Also, we find the cooling layer width is almost independent of Mach number, resulting from the independence of the local turbulent velocity in the mixing layer on Mach number. This is distinct from cases of fast cooling systems.
+
+            <h4>O VI column density does not depend on Mach number</h4>
+
+            For the mixing layer width is almost independent of Mach number once the shear flows are supersonic, the typical ions' column densities will not depend on the relative velocity between the hot and cold gas, too. One representative is O VI, which peaks at \(T\sim 3\times 10^5\,\)K.
+
+            In subsonic cases, the column density of O VI increases with Mach number, however, it would not be enhanced by Mach number anymore in supersonic cases. Some typical ions' column densities are plotted against Mach number below.
+
+            <div class="pic" style="height: 424px;">
+                <a href="pics/CIV_Mach.jpg" target="_blanck">
+                    <img src="pics/CIV_Mach.jpg" alt="CIV"><br />
+                </a>
+
+                <em>C IV, S IV</em>
+            </div>
+
+            <div class="pic" style="height: 424px;">
+                <a href="pics/hot_ion_Mach.jpg" target="_blanck">
+                    <img src="pics/hot_ion_Mach.jpg" alt="OVI"><br />
+                </a>
+
+                <em>O VI, N V, Si V, Si VI</em>
+            </div>
+            <div class="clear"></div>
+
+            <h3>2 Hydrodynamic simulations of turbulent mixing layers of galactic winds</h3>
+
+            Galactic winds (GWs) have long been thought of as an important role in galaxy formation and evolution, which continuously replenish medium in and around galaxies with metals and gas, through activities such as AGN outflows, stellar winds and supernova explosions. Meanwhile, the circumgalactic medium (CGM) has drew astronomers' attention in recent years, and some interesting observational results were introduced, amongst which high column densities of some specific ions (e.g., O VI) should be an unavoidable problem to investigate. Given the very short cooling timescales of the gas that could contain such great number of those ions (for very restricted temperature range), the turbulent mixing layers arising from the interactions (caused by velocity shear between hot and cold phases) between hot gas outflows and ambient cold/cool gases are likely to be an explanation, in addition to that from cold gas clouds and warm gas environment. GWs have wide ranges of physical parameters (temperature, pressure, metallicity and velocity shear), but there is few comprehensive parameter studies on TMLs that could cover the real physical conditions of GWs. Therefore, we performed a parameter study (hydrodynamic simulations) to explore the relations between ion column densities and physical parameters in wider ranges. Besides confirming the strong positive correlation between ion column densities and metallicity, we have some important discoveries: TMLs are not responsible for a few ions' abundance (e.g., Si IV ) under low-pressure conditions; the thickness of TMLs arising from  supersonic flow does not strongly depend on the velocity shear \(v_\mathrm{sh}\); the exploration of temperature space can be approximately converted to the dependence of the TMLs in steady state on velocity shear, which greatly simplifies O VI related problems.</br>
+        </br>
+            Our fiducial simulation is initiated with two uniform fluids with a relative velocity of \(100\,\)km/s. One's temperature \(T=10^4\,\)K, and another one has \(T=10^6\,\)K. And an isobaric condition is assumed, so the overdensity \(\delta = 100\). The temporal evolution of the system in the fiducial run can be visualized by slices of temperature below.</br>
+            <div class="pic" style="width: 100%;">
+                <a href="pics/V100.jpg" target="_blanck">
+                    <img style="width: 1080px;" src="pics/V100.jpg" alt="fiducial"><br />
+                </a>
+
+                <em>Temporal evolution of temperature slices in the fiducial simulations</em>
+            </div>
+            <div class="clear"></div>
+
+        </br>
+            Below are some of the important results in this study.
+
+            <h4>The "conversion relation" between shear velocity and temperature</h4>
+
+            In previous work in this field, shear velocity \(v_\mathrm{sh}\) and density contrast (thus temperature) \(\delta \) have usually been treated as two independent variables. However, our study shows these two kind of conditions can be equivalently converted to each other when specific questions are under investigation. Our research focuses on the gas of intermediate temperature \(T\sim 10^5\,\)K, and we find shear flows with different temperature pairs (e.g., \(10^3\,\)K and \(10^7\,\)K) can be equivalently converted to a case with (\(10^4\,\)K and \(10^6\,\)K), but with another shear velocity. Here, based on parameters of the fiducial run, we establish a formula to express the conversion relation between these two variables:
             
+            $$ v_\mathrm{sh}' =  \frac{10^6\,\mathrm{K}}{T_\mathrm{hot}} v_\mathrm{sh} = \frac{\rho_\mathrm{hot}}{\rho (10^6\,\mathrm{K})}v_\mathrm{sh}, $$
+
+            where \(v_\mathrm{sh}\) is the real initial relative velocity between the hot and cold gas flows, \(T_\mathrm{hot}\) and \(\rho_\mathrm{hot}\) are properties of the hot gas, and \(v_\mathrm{sh}'\) is the equivalent shear velocity, with which we can regard the TML in the system as that in a case with the fiducial temperature pair. In another word, the mixing layer with the initial condition (\(v_\mathrm{sh}'\), \(T_\mathrm{cold}\lesssim 10^4\,\)K, \(T_\mathrm{hot}\)) is similar to that with (\(v_\mathrm{sh}\), \(10^4\,\)K, \(10^6\,\)K). They will bring the same amount of typical ions, such as O VI and C IV.
+
+            <h4>The effect of photoionization on ion column densities</h4>
+
+            When collissinal ionization equilibrium is assumed, it is conceivable that the column densities, e.g., \(N_\mathrm{CIV}\)， will increase with the ambient pressure \(P\). However, we find when photoionization is taken into account, the relationship between them will be complicated - different ions are influenced in different ways. 
+
+            In the pressure range we have explored ( \(P/k_\mathrm{B} = 10, 10^2, 10^3\,\mathrm{K\, cm^{-3}}\)), O VI is abundant in the mixing layer while lack in both cold gas and hot gas, and \(N_\mathrm{OVI}\) monotonously increases with \(P\). By contrast, the ion fraction of Si IV will be changed by pressure significantly, i.e., Si IV peaks at a different temperature when another pressure is initiated. And then the most important contributor will be cold gas (\(10^4\,\)K), instead of the mixing layer. This can be easily get across by the projections of Si IV number density below.
+
+            <div class="pic" style="width: 100%;">
+                <a href="pics/n_Si_p3_Z0.1_Te6_P1_lg_3D_128-1.png" target="_blanck">
+                    <img style="width: 1080px;" src="pics/n_Si_p3_Z0.1_Te6_P1_lg_3D_128-1.png" alt="10"><br />
+                </a>
+
+                \(P/k_\mathrm{B} = 10\,\mathrm{K\, cm^{-3}}\)
+            </div>
+            <div class="clear"></div>
+
+            <div class="pic" style="width: 100%;">
+                <a href="pics/n_Si_p3_Z0.1_Te6_3D_128-1.png" target="_blanck">
+                    <img style="width: 1080px;" src="pics/n_Si_p3_Z0.1_Te6_P1_lg_3D_128-1.png" alt="100"><br />
+                </a>
+
+                \(P/k_\mathrm{B} = 10^2\,\mathrm{K\, cm^{-3}}\)
+            </div>
+            <div class="clear"></div>
+
+            <div class="pic" style="width: 100%;">
+                <a href="pics/n_Si_p3_Z0.1_Te6_P3_3D_128-1.png" target="_blanck">
+                    <img style="width: 1080px;" src="pics/n_Si_p3_Z0.1_Te6_P3_3D_128-1.png" alt="1000"><br />
+                </a>
+
+                \(P/k_\mathrm{B} = 10^3\,\mathrm{K\, cm^{-3}}\)
+            </div>
+            <div class="clear"></div>
+
 
 
 
