@@ -9,14 +9,13 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-	height: 2050px;
+    min-height: 100vh; /* Ensure it expands dynamically */
     background-color: #212931;
     background-image: url("pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg");
-    background-size: 100% auto;
-    background-position: top center;
-    background-repeat: repeat-y;
-    background-attachment: scroll;
-    overflow: auto;
+    background-size: cover; /* Ensures full coverage */
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Creates a smooth scrolling effect */
 }
 
 img {
