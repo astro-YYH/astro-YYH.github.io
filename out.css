@@ -9,13 +9,15 @@ body {
     top: 0;
     left: 0;
     width: 100%;
+    min-width: 1200px; /* at least as wide as the main box */
     min-height: 100vh; /* Ensure it expands dynamically */
     background-color: #212931;
     background-image: url("pics/john-fowler-7Ym9rpYtSdA-unsplash.jpg");
     background-size: cover; /* Ensures full coverage */
     background-position: center top;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Creates a smooth scrolling effect */
+    background-attachment: fixed;     /* Creates a smooth scrolling effect */
+    z-index: -1;
 }
 
 img {
@@ -84,10 +86,19 @@ img#temp_slice {
     text-decoration: none;
 }
 
-#top_home {
+/* #top_home {
     height: 80px;
     width: 1200px;
     margin: auto;
+} */
+
+#top_home {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* background: rgba(255, 255, 255, 0.9); Semi-transparent background */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 1000;
 }
 
 .this_nav {
