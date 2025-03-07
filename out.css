@@ -216,12 +216,15 @@ hr.main {
     float: left;
     width: auto;
     text-align: center;
-    overflow: hidden;
+    /* overflow: hidden; */
     margin-bottom: 10px;
 }
 
 .pic > a > img {
-    height: calc(100% - 45px);
+    width: calc(100% - 45px);
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 #donation_describe {
